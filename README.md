@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @olicoding. Also @OliveiraDCI - my other GitHub account for studying.
+- 👋 Hi, I’m @olicoding.
 - 👀 I’m interested in people, nature, tecnology, personal development and life in general.
 - 🌱 I’m currently learning HTML, CSS, Javascript and all the good stuff around like Git, Node, DB, etc.
 - 💞️ I’m looking to collaborate on open source and other professional projects.
