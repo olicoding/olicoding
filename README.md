@@ -1,7 +1,7 @@
-- 👋 Hi, I’m olicoding.
+- 👋 Hi, I’m olicoding - or Oliveira, for human fellows.
 - 👀 I’m interested in people, nature, tecnology, personal development and life in general.
-- 🌱 I’m currently learning HTML, CSS, Javascript and all the good stuff around like Git, Node, DB, etc.
-- 💞️ I’m looking to collaborate on open source and other professional projects.
+- 🌱 I’m currently deep diving into JavaScript Full Stack Development - MERN stack.
+- 💞️ I’m looking to collaborate on open source and professional projects.
 - 📫 How to reach me: drop me an e-mail at oliveira.sein.dci@gmail.com
 
 <!---
