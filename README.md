@@ -4,6 +4,6 @@
 - 💞️ I’m looking to collaborate on open source and professional projects.
 - 📫 How to reach me: 
   - drop me an e-mail oliveira.sein.dci@gmail.com
-  - [LinkedIn]: https://www.linkedin.com/in/rafaelbenchimoldeoliveira
-  - [Xing]: https://www.xing.com/profile/Rafael_BenchimoldeOliveira/cv
+  - [LinkedIn](https://www.linkedin.com/in/rafaelbenchimoldeoliveira)
+  - [Xing](https://www.xing.com/profile/Rafael_BenchimoldeOliveira/cv)
 
