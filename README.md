@@ -1,9 +1,10 @@
-- 👋 Hi, I’m olicoding.
-- 👀 I’m interested in people, nature, tecnology, personal development and life in general.
-- 🌱 I’m currently deep diving into JavaScript Full Stack Development - MERN stack.
-- 💞️ I’m looking to collaborate on open source and professional projects.
-- 📫 How to reach me: 
-  - E-mail: <oliveira.sein.dci@gmail.com>
-  - [LinkedIn](https://www.linkedin.com/in/rafaelbenchimoldeoliveira)
-  - [Xing](https://www.xing.com/profile/Rafael_BenchimoldeOliveira/cv)
+- 👋 Hey, welcome to my github page. I’m olicoding.
+- 👀 I'm interested in people, nature, tecnology, personal development and life in general.
+- 🌱 Currently deep diving into JavaScript Full Stack Development - MERN stack.
+- 💞️ Actively seeking a position as Jr. Full Stack Developer.
+- 📫 If you'd like to reach out, bellow are some links. I look forward to it! 
+  ◦ E-mail: <oliveira.sein.dci@gmail.com>
+  ◦ [Portfolio](https://react-portfolio-alpha-six.vercel.app/)
+  ◦ [LinkedIn](https://www.linkedin.com/in/rafaelbenchimoldeoliveira)
+  ◦ [Xing](https://www.xing.com/profile/Rafael_BenchimoldeOliveira/cv)
 
