@@ -1,6 +1,6 @@
 - 👋 Hey, welcome to my GitHub page!
 - 👀 I'm interested in people, nature, technology, personal development, and life in general.
-- 🌱 I recently completed a year-long Full Stack Web Development course and am now working as a Jr. Full Stack Developer.
+- 🌱 I recently completed a year-long Full Stack Web Development course and am now working as a Jr. Software Developer.
 - 💻 My current focus is on gaining experience and knowledge in my role, but I'm always open to learning and exploring new technologies.
 - 📫 You can still reach out to me via the following links:
   - [Portfolio](https://react-portfolio-alpha-six.vercel.app/)
