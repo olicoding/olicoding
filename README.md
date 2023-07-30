@@ -1,9 +1,8 @@
 - 👋  Hey, welcome to my GitHub page!
-- 👀  I'm interested in people, nature, technology, personal development, and life in general.
-- 🌱  I recently completed a year-long Full Stack Web Development course and am now working as a Jr. Software Developer.
-- 💻  My current focus is on gaining experience and knowledge in my role, and I'm always open to learning and exploring new technologies.
-- 📫  You can reach out to me via the following links:
+- 👀  I'm interested in people, nature, technology, personal development and life in general.
+- 🌱  I recently completed a year-long Full Stack Web Development bootcamp and am now working as a Software Developer.
+- 💻  I'm always learning and exploring new technologies and concepts.
+- 📫  Reach out here:
   - [Portfolio](https://react-portfolio-alpha-six.vercel.app/)
   - [LinkedIn](https://www.linkedin.com/in/rafaelbenchimoldeoliveira)
   - [Xing](https://www.xing.com/profile/Rafael_BenchimoldeOliveira/cv)
-  - [E-mail](mailto:oliveira.sein@gmail.com)
