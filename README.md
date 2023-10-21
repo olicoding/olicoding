@@ -1,6 +1,6 @@
 - 👋  Hey, welcome to my GitHub page!
 - 👀  I'm interested in people, nature, technology, personal development and life in general.
-- 🌱  I've recently completed a year-long Full Stack Web Development bootcamp and have worked 6 months as a Software Developer in Hamburg.
+- 🌱  I've recently completed a year-long Full Stack Software Development bootcamp and have already worked a few months in the 'real-world' as a Software Developer in Hamburg.
 - 💻  I'm always learning and exploring new technologies and concepts.
 - 📫  Reach out here:
   - [Portfolio](https://react-portfolio-alpha-six.vercel.app/)
