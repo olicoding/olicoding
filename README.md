@@ -1,7 +1,7 @@
 - 👋  Hey, welcome to my GitHub page!
 - 👀  I'm interested in people, nature, technology, personal development and life in general.
-- 🌱  I've recently completed a year-long Full Stack Software Development bootcamp and have already worked a few months in the 'real-world' as a Software Developer in Hamburg.
-- 💻  I'm always learning and exploring new technologies and concepts.
+- 💻  I've recently completed a year-long dev bootcamp and have been working as a Software Developer in Hamburg.
+- 🌱  I'm always learning and improving.
 - 📫  Reach out here:
   - [Portfolio](https://react-portfolio-alpha-six.vercel.app/)
   - [LinkedIn](https://www.linkedin.com/in/rafaelbenchimoldeoliveira)
