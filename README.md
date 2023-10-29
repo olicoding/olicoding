@@ -1,8 +1,9 @@
-- 👋  Hey, welcome to my GitHub page!
-- 👀  I'm interested in people, nature, technology, personal development and life in general.
-- 💻  I've recently completed a year-long dev bootcamp and have been working as a Software Developer in Hamburg.
-- 🌱  I'm always learning and improving.
-- 📫  Reach out here:
+- 👋  Welcome to my GitHub page!
+- 🚀  I'm a Software Developer based in Hamburg, with a passion for people, nature, technology, personal development, and life itself.
+- 🌱  Constantly learning and improving.  
+- 👨‍💻  I've recently graduated from a year-long web-dev bootcamp and have started working as a dedicated Software Developer in Hamburg immediately after.
+- 🟩  If you notice gaps in my contribution history since April 2022, check my other account [@OliveiraDCI] or find me on GitLab, where I have been contributing on private projects at work.
+- 📫  Let's connect:
   - [Portfolio](https://react-portfolio-alpha-six.vercel.app/)
   - [LinkedIn](https://www.linkedin.com/in/rafaelbenchimoldeoliveira)
   - [Xing](https://www.xing.com/profile/Rafael_BenchimoldeOliveira/cv)
