@@ -1,8 +1,8 @@
-- 👋  Welcome to my GitHub page!
-- 🚀  I'm a developer based in Hamburg
-- 🌱  Constantly learning and improving.  
-- 🟩  I have another account used for studies in 2022: [@OliveiraDCI](https://github.com/OliveiraDCI). I'm also on GitLab, where I contribute to private projects.
-- 📫  Let's connect:
+- 👋  Welcome to my GitHub account!
+- 🚀  I'm a developer based in Hamburg, constantly learning and improving.  
+- 🟩  I have another account used for bootcamp studies in 2022: [@OliveiraDCI](https://github.com/OliveiraDCI) and am also on GitLab.
+- 📫  Personal links:
   - [Portfolio](https://react-portfolio-alpha-six.vercel.app/)
   - [LinkedIn](https://www.linkedin.com/in/rafaelbenchimoldeoliveira)
   - [Xing](https://www.xing.com/profile/Rafael_BenchimoldeOliveira/cv)
+  - [Blog](https://oliblog.vercel.app/)
