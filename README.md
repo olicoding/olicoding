@@ -1,6 +1,6 @@
 - 👋  Welcome to my GitHub profile!
 - 🚀  I'm a developer based in Hamburg, constantly learning and improving.  
-- 🟩  I have another account used for bootcamp studies in 2022: [@OliveiraDCI](https://github.com/OliveiraDCI) and am also on GitLab.
+- 🟩  I have another account used for bootcamp studies in 2022/2023: [@OliveiraDCI](https://github.com/OliveiraDCI) 
 - 📫  Personal links:
   - [Blog](https://oliblog.vercel.app/)
   - [Xing](https://www.xing.com/profile/Rafael_BenchimoldeOliveira/cv)
