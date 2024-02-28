@@ -1,8 +1,6 @@
-- 👋  Welcome to my GitHub profile!
-- 🚀  I'm a developer based in Hamburg, constantly learning and improving.  
-- 🟩  I have another account used for bootcamp studies in 2022/2023: [@OliveiraDCI](https://github.com/OliveiraDCI) 
-- 📫  Personal links:
-  - [Blog](https://oliblog.vercel.app/)
-  - [Xing](https://www.xing.com/profile/Rafael_BenchimoldeOliveira/cv)
+- 👋  Hello 
+- 📫  Links:
   - [LinkedIn](https://www.linkedin.com/in/rafaelbenchimoldeoliveira)
-  - [Portfolio](https://react-portfolio-olicoding.vercel.app/)
+  - [Xing](https://www.xing.com/profile/Rafael_BenchimoldeOliveira/cv)
+  - [Blog](https://blog.olicoding.dev/)
+  - [Portfolio](https://olicoding.dev/)
