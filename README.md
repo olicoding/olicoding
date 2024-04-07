@@ -1,6 +1,1 @@
-- 👋  Hello 
-- 📫  Links:
-  - [LinkedIn](https://www.linkedin.com/in/rafaelbenchimoldeoliveira)
-  - [Xing](https://www.xing.com/profile/Rafael_BenchimoldeOliveira/cv)
-  - [Blog](https://blog.olicoding.dev/)
-  - [Portfolio](https://olicoding.dev/)
+👋  Hello
